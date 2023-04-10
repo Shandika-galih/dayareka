@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dayareka.git/static/css/main.d9da5fd9.css",
+    "main.js": "/dayareka.git/static/js/main.6926e281.js",
+    "static/js/787.2b406773.chunk.js": "/dayareka.git/static/js/787.2b406773.chunk.js",
+    "static/media/grafik.png": "/dayareka.git/static/media/grafik.e2b2160ad695397cf843.png",
+    "static/media/bg.png": "/dayareka.git/static/media/bg.93bdd2ae6072a6dc17b2.png",
+    "static/media/profile.png": "/dayareka.git/static/media/profile.9dc4fc8127ad36f4f056.png",
+    "index.html": "/dayareka.git/index.html",
+    "main.d9da5fd9.css.map": "/dayareka.git/static/css/main.d9da5fd9.css.map",
+    "main.6926e281.js.map": "/dayareka.git/static/js/main.6926e281.js.map",
+    "787.2b406773.chunk.js.map": "/dayareka.git/static/js/787.2b406773.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9da5fd9.css",
+    "static/js/main.6926e281.js"
+  ]
+}
